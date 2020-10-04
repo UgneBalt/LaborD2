@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaborD2</string>
+    <string name="input_tip">Įveskite sakinį ar tekstą</string>
+    <string name="action_button">Skaičiuoti</string>
+    <string-array name="counting_type">
+        <item name="word">Skaičiuoti žodžius</item>
+        <item name="symbol">Skaičiuoti simbolius</item>
+    </string-array>
+    <string name="toast_name">Dar neįvedėte teksto!</string>
+</resources>
